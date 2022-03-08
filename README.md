@@ -1,1 +1,2 @@
-# 14-SB-Microservices-configrepo
+# microservices-config
+Central repository configurations 
